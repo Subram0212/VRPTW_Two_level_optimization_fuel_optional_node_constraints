@@ -1,4 +1,4 @@
-# # Solving Vehicle Routing Problem with time windows, fuel constraints and optional node constraints using OR-Tools’ constraint programming solver.
+# Solving Vehicle Routing Problem with time windows, fuel constraints and optional node constraints using OR-Tools’ constraint programming solver.
 
 This project has the code for the simulation results produced in the IEEE paper titled “Cooperative Route planning of multiple fuel-constrained Unmanned Aerial Vehicles with recharging on an Unmanned Ground Vehicle”.
 
