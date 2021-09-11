@@ -1,6 +1,6 @@
-# Solving Vehicle Routing Problem with time windows, fuel constraints and optional node constraints using OR-Tools’ constraint programming solver.
+# Solving Vehicle Routing Problem with time windows, fuel constraints and optional node constraints using OR-Tools’ constraint programming solver and Gurobi's MIP solver.
 
-This project has the code for the simulation results produced in the IEEE paper titled “Cooperative Route planning of multiple fuel-constrained Unmanned Aerial Vehicles with recharging on an Unmanned Ground Vehicle”.
+This project has the code for the simulation results produced in the IEEE paper titled “Cooperative Route planning of multiple fuel-constrained Unmanned Aerial Vehicles with recharging on an Unmanned Ground Vehicle”. This problem is formulated as a Mixed Integer Programming problem and solved using Gurobi. This problem is also solved using Constraint Programming (CP) method and OR-Tools' constraint programming solver is used for solving this problem.
 
 The two-level optimization code is as follows:
 
